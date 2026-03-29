@@ -18,5 +18,3 @@ Remopiconは21キー、トラックパッド付きリモコンサイズの自作
 ファームウェアは[PicoMK](https://github.com/karugaru/PicoMK)を使用しています。
 
 PicoMKのデフォルトの設定はRemopicon用に最適化されています。PicoMKのビルドガイドに従ってビルドしてください。
-
-(現在、PicoMKのビルドガイドは作成中なので、Pico-SDKを使用した一般的なRaspberry Pi Picoのファームウェアのビルド方法を参考にしてください。)
